@@ -73,7 +73,7 @@
 	},
 	"test": {
 		"id": 0,
-		"image": "test6",
+		"image": "kako",
 		"time": "30 minutes",
 		"description": "Test your knowledge of SwiftUI.",
 		"questions": [{
