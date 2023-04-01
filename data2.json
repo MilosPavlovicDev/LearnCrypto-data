@@ -46,7 +46,7 @@
 				"title": "Understanding Whitepapers",
 				"video": "SwiftUI%20trimmed.mp4",
 				"duration": "15 minutes",
-				"explanation": "<p>* A guide to reading and understanding cryptocurrency whitepapers, including the structure, content, and key takeaways. This lesson will provide tips on how to evaluate the potential of a cryptocurrency project, and what to look for in a whitepaper.</p>"
+				"explanation": "<p>A guide to reading and understanding cryptocurrency whitepapers, including the structure, content, and key takeaways. This lesson will provide tips on how to evaluate the potential of a cryptocurrency project, and what to look for in a whitepaper.</p>"
 			},
 			{
 				"id": 6,
@@ -75,78 +75,86 @@
 		"id": 0,
 		"image": "kako",
 		"time": "30 minutes",
-		"description": "Test your knowledge of SwiftUI.",
+		"description": "7-question test assesses your understanding of the Fundamentals module.",
 		"questions": [{
 				"id": 0,
-				"content": "<p>Every SwiftUI app has exactly one scene to which contains a view hierarchy.</p>",
-				"correctIndex": 1,
+				"content": "<p>What is a peer-to-peer network?</p>",
+				"correctIndex": 0,
 				"answers": [
-					"true",
-					"false"
+					"A: Decentralized system",
+					"B: Centralized system",
+					"C: Physical network",
+					"D: Third-party system"
 				]
 			},
 			{
 				"id": 1,
-				"content": "<p>How can you customize the display and behaviour of a view in SwiftUI?</p>",
-				"correctIndex": 2,
+				"content": "<p>What is a permissionless blockchain?</p>",
+				"correctIndex": 0,
 				"answers": [
-					"Change it in the storyboard",
-					"Conform it to the appropriate delegate protocol",
-					"Using modifiers",
-					"You can't"
+					"A: Public blockchain",
+					"B: Private blockchain",
+					"C: Hybrid blockchain",
+					"D: Permissioned blockchain"
 				]
 			},
 			{
 				"id": 2,
-				"content": "<p>Which of the following allows you to display a table?</p>",
-				"correctIndex": 3,
+				"content": "<p>What is a smart contract?</p>",
+				"correctIndex": 0,
 				"answers": [
-					"VStack",
-					"HStack",
-					"ZStack",
-					"List"
+					"A: Self-executing contract",
+					"B: Written contract",
+					"C: Physical contract",
+					"D: Verbal contract"
+
 				]
 			},
 			{
 				"id": 3,
-				"content": "<p>You can define custom paths to create shapes in SwiftUI.</p>",
+				"content": "<p>What is a consensus mechanism?</p>",
 				"correctIndex": 0,
 				"answers": [
-					"true",
-					"false"
+					"A: Agreement protocol",
+					"B: Blockchain type",
+					"C: Encryption method",
+					"D: Mining hardware"
+					
 				]
 			},
 			{
 				"id": 4,
-				"content": "<p>Select the best answer.</p>",
-				"correctIndex": 3,
+				"content": "<p>What is a node?</p>",
+				"correctIndex": 0,
 				"answers": [
-					"You can add SwiftUI views to a storyboard-based app using hosting controllers",
-					"You can add UIKit views to a SwiftUI project using representable objects",
-					"SwiftUI and UIKit are separate, and shouldn't be integrated",
-					"Answers 1 and 2"
+					"A: Network participant",
+					"B: Cryptocurrency wallet",
+					"C: Private key",
+					"D: Public key.
+					
 				]
 			},
 			{
 				"id": 5,
-				"content": "<p>In SwiftUI, interfaces are created:</p>",
-				"correctIndex": 2,
+				"content": "<p>What is a public key cryptography?</p>",
+				"correctIndex": 0,
 				"answers": [
-					"Procedurally",
-					"Dynamically",
-					"Declaratively",
-					"Eccentrically"
+					"A: Asymmetric encryption",
+					"B: Symmetric encryption.",
+					"C: Blockchain security",
+					"D: Hash function"
 				]
 			},
 			{
 				"id": 6,
-				"content": "<p>Prefixing a property wrapped property with $ will access its",
-				"correctIndex": 1,
+				"content": "<p>What is a cold wallet?",
+				"correctIndex": 0,
 				"answers": [
-					"Wrapped value",
-					"Projected value",
-					"Financial value",
-					"That's invalid syntax"
+					"A: Offline storage",
+					"B: Online storage",
+					"C: Public key",
+					"D: Mining hardware"
+
 				]
 			}
 		]
